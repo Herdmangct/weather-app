@@ -1,6 +1,6 @@
 # Weather Widget Editor
 
-![Weather Widget Editor](./weather-widget-editor.png)
+![Weather Widget Editor](./public/weather-widget-editor.png)
 
 ### Description
 A simple weather widget with a form to change what information the widget displays.
