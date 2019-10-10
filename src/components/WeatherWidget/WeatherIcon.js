@@ -6,7 +6,7 @@ const WeatherIcon = props => {
   return (
     <div style={styles.weatherIconContainer}>
       <img
-        src={`http://openweathermap.org/img/wn/${weatherIconID}@2x.png`}
+        src={`https://openweathermap.org/img/wn/${weatherIconID}@2x.png`}
         style={styles.image}
         alt="Temperature"
       />
