@@ -71,7 +71,7 @@ class WidgetEditor extends Component {
 
           axios
             .get(
-              `http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=${API_KEY}`
+              `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=${API_KEY}`
             )
             .then(({ data }) => {
               const { name, main, wind, weather } = data;
