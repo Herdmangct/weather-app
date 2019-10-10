@@ -2,6 +2,9 @@
 
 ![Weather Widget Editor](./public/weather-widget-editor.png)
 
+### Demo Link
+https://herdmangct.github.io/weather-app/
+
 ### Description
 A simple weather widget with a form to change what information the widget displays.
 
